@@ -1,3 +1,21 @@
-@import "variables";
+@import "_variables";
 @import "../../vendor/bootstrap-4.0.0/scss/bootstrap";
 @import "global";
+
+$theme-colors: map-merge(
+  (
+    "primary": $primary,
+    "secondary": $secondary,
+    "tertiary": $gray-100,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "white": $white,
+    "light": #eeeeee,
+    "dark": #3a4750,
+    "darkest": #303841,
+    "deep-red": #d72323
+  ),
+  $theme-colors
+);

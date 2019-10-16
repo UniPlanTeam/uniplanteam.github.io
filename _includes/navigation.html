@@ -1,0 +1,29 @@
+<!-- NAVBAR -->
+<nav
+  id="main-nav"
+  class="navbar fixed-top navbar-expand-sm navbar-dark bg-primary-dark"
+>
+  <div class="container">
+    <a href="/" class="navbar-brand">UniPlan</a>
+    <button
+      class="navbar-toggler"
+      data-toggle="collapse"
+      data-target="#navbarCollapse"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div id="navbarCollapse" class="collapse navbar-collapse">
+      <ul class="navbar-nav ml-auto">
+        {% for item in site.data.navigation %} {% if page.url == item.link %}
+        <li class="nav-item active">
+          <a href="{{ item.link }}" class="nav-link">{{ item.name }}</a>
+        </li>
+        {% else %}
+        <li class="nav-item">
+          <a href="{{ item.link }}" class="nav-link">{{ item.name }}</a>
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
