@@ -1,0 +1,28 @@
+{
+    "mappings": [
+        {
+            "src": "assets/scss",
+
+            "dest": "dist"
+        },
+        {
+            "src": "assets/js",
+
+            "dest": "dist"
+        }
+    ],
+
+    "ignores": ["*.json", "*.txt", "vendor", "dist"],
+
+    "options": {
+        "outputStyle": "compressed",
+
+        "lineComments": false,
+
+        "debugInfo": false,
+
+        "autocompile": false
+    },
+
+    "includePaths": ["assets/js"]
+}
