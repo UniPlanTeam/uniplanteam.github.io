@@ -1,13 +1,39 @@
 .btn.btn-round {
-    border-radius: 35px;
+  border-radius: 35px;
 }
 
 #btn-meet-team {
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
-    border-bottom: medium solid white;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: medium solid white;
 }
 
 a#btn-meet-team:hover {
-    text-decoration: none;
+  text-decoration: none;
+}
+
+#blog-featured {
+  a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+
+  img {
+    opacity: 1;
+    transition: 0.5s ease;
+  }
+
+  .overlay {
+    opacity: 0;
+    transition: 0.5s ease;
+    position: absolute;
+  }
+
+  .container:hover img {
+    opacity: 0.5;
+  }
+
+  .container:hover .overlay {
+    opacity: 1;
+  }
 }

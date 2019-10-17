@@ -1,2 +1,2 @@
-.btn.btn-round{border-radius:35px}#btn-meet-team{border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom:medium solid white}a#btn-meet-team:hover{text-decoration:none}
+.btn.btn-round{border-radius:35px}#btn-meet-team{border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom:medium solid white}a#btn-meet-team:hover{text-decoration:none}#blog-featured a{color:inherit;text-decoration:inherit}#blog-featured img{opacity:1;transition:0.5s ease}#blog-featured .overlay{opacity:0;transition:0.5s ease;position:absolute}#blog-featured .container:hover img{opacity:0.5}#blog-featured .container:hover .overlay{opacity:1}
 /*# sourceMappingURL=global.css.map */

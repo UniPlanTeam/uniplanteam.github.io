@@ -4,6 +4,7 @@ $primary-dark: #00227a;
 $secondary: #fbc02d;
 $secondary-light: #fff263;
 $secondary-dark: #c49000;
+$gray-100: #f8f9fa;
 
 $theme-colors: ();
 $theme-colors: map-merge(
@@ -14,6 +15,7 @@ $theme-colors: map-merge(
     "secondary": $secondary,
     "secondary-light": $secondary-light,
     "secondary-dark": $secondary-dark,
+    "tertiary": $gray-100,
     "light": #eeeeee,
     "dark": #3a4750,
     "darkest": #303841,
