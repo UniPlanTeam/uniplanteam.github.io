@@ -25,31 +25,29 @@
         </div>
 
         <div class="container">
-            <div class="row justify-content-around">
+            <div class="row justify-content-center">
                 {% for person in site.team %}
-                <div class="card w-25 text-center border-white">
-                    <img
-                        src="{{ person.profile }}"
-                        alt="Profile picture of {{ person.name }}"
-                        class="d-block mx-auto img-fluid rounded-circle w-50"
-                    />
-                    <div class="card-body">
-                        <h5 class="card-title">{{ person.name }}</h5>
-                        <p class="card-text">{{ person.title }}</p>
+                <div class="col-lg col-md-4 col-sm-6">
+                    <div class="card text-center border-white">
+                        <img
+                            src="{{ person.profile }}"
+                            alt="Profile picture of {{ person.name }}"
+                            class="d-block mx-auto img-fluid rounded-circle w-50"
+                        />
+                        <div class="card-body">
+                            <h5 class="card-title">{{ person.name }}</h5>
+                            <p class="card-text">{{ person.title }}</p>
+                        </div>
                     </div>
                 </div>
                 {% endfor %}
             </div>
         </div>
 
-        <div class="container text-center mt-3">
+        <div class="embed-responsive embed-responsive-4by3">
             <iframe
                 src="https://docs.google.com/forms/d/e/1FAIpQLScUtfz2UH4cXwJcjQ903RdIzDQoQ4rvBxzjjiki6zE7pUQr3Q/viewform?embedded=true"
-                width="640"
-                height="1022"
-                frameborder="0"
-                marginheight="0"
-                marginwidth="0"
+                class="embed-responsive-item"
                 >Loading…</iframe
             >
         </div>
