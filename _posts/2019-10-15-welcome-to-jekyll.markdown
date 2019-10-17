@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Jekyll!"
 date: 2019-10-15 21:25:24 -0700
-categories: jekyll update
+categories: blog
 featured_image: https://picsum.photos/seed/3056/1000
 ---
 

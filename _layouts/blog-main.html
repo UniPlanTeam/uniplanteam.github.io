@@ -10,7 +10,7 @@
   <body>
     {% include navigation.html %} {% include blog-header.html %} {% for post in
     site.posts limit:1 %}
-    <section id="blog-featured" class="my-5 position-relative">
+    <section id="blog-featured" class="my-5">
       <div class="container">
         <a href="{{ post.url }}">
           <div class="row bg-tertiary">
@@ -35,7 +35,33 @@
         </a>
       </div>
     </section>
-    {% endfor %} {% include footer.html %} {% include scripts.html %} {% include
+    {% endfor %}
+
+    <section id="blog-main">
+      <div class="container">
+        <div class="row">
+          {% for post in site.posts offset:1 %}
+          <div class="col-sm-4">
+            <a href="{{ post.url }}">
+              <div class="card w-100">
+                <img
+                  src="{{ post.featured_image }}"
+                  alt=""
+                  class="card-img-top"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">{{ post.title }}</h5>
+                  <p class="card-text text-truncate">{{ post.excerpt }}</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %} {% include scripts.html %} {% include
     get-year-script.html %}
   </body>
 </html>

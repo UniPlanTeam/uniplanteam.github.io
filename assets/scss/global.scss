@@ -37,3 +37,18 @@ a#btn-meet-team:hover {
     opacity: 1;
   }
 }
+
+#blog-main {
+  .card {
+    max-width: 256px;
+    max-height: 32rem;
+
+    .card-text {
+      overflow: hidden;
+    }
+
+    .card-img-top {
+      max-height: 8rem;
+    }
+  }
+}
