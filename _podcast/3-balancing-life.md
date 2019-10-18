@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3: Balancing Life"
+title: "Balancing Life"
 date: 2019-08-15 14:08:00
 file: https://archive.org/download/tss-3/tss-3.mp3
 description: "In this episode of The Study Space, we discuss how we approach this idea of “balance” in our lives and what that really means. We cover the activities in which we participated and how they affected our time, attention, and energy. We also talk about our reasons for making certain decisions and evaluating our priorities."

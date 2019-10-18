@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "1: How to Get a Head Start on a College Term"
+title: "How to Get a Head Start on a College Term"
 date: 2019-08-03 14:46:00
 file: https://archive.org/download/tss-1/tss-1.mp3
 description: "In this first episode of The Study Space Podcast, we share insights about the benefits of starting the next college semester or quarter early, and our personal methods and hacks for doing so. We also talk about commitments that you can take on during the summer to boost your skills, education, and career. If the next term is going to be your very first one, you'll put your mind at ease about how to prepare. If it's not your first rodeo, you'll learn how to start the term off on the right foot."

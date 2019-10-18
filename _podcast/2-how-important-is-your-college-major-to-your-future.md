@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2: How Important is Your College Major to Your Future"
+title: "How Important is Your College Major to Your Future"
 date: 2019-08-07 19:44:00
 file: https://archive.org/download/tss-2/tss-2.mp3
 description: "In this second episode of The Study Space Podcast, we dive into the question that is on so many students' minds: how important is your college major to your future? We discuss our own college majors, their effects on our lives, and how we hope to use them in the future. We also talk about our personal strategies on how to make big life decisions like choosing your major or what skills to acquire. Learn how to think through these dilemmas in this episode!"
