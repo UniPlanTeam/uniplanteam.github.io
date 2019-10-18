@@ -1,0 +1,45 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+
+    <channel>
+		<atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>{{ site.data.podcast.title }}</title>
+		<link>{{ site.url }}/feed/podcast/</link>
+		<language>{{ site.lang }}</language>
+        <copyright>&#xA9; {{ site.time | date: "%Y" }}</copyright>
+		<itunes:subtitle>{{ site.data.podcast.subtitle | xml_escape }}</itunes:subtitle>
+        <itunes:author>{{ site.data.podcast.author }}</itunes:author>
+		<itunes:summary>{{ site.data.podcast.description | xml_escape }}</itunes:summary>
+        <description>{{ site.data.podcast.description | xml_escape }}</description>
+		<webMaster>{{ site.data.podcast.owner_email }} (Julian Vu)</webMaster>
+        <itunes:owner>
+			<itunes:name>{{ site.data.podcast.owner }}</itunes:name>
+			<itunes:email>{{ site.data.podcast.owner_email }}</itunes:email>
+		</itunes:owner>
+        <itunes:image href="{{ site.data.podcast.image }}" />
+        <itunes:category text="{{ site.data.podcast.primary_category }}">
+            <itunes:category text="{{ site.data.podcast.primary_subcategory }}" />
+        </itunes:category> 
+        <itunes:explicit>no</itunes:explicit>
+		
+{% for episode in site.podcast %}
+        <item>
+            <title>{{ episode.title | xml_escape }}</title>
+            <itunes:author>{{ site.data.podcast.author }}</itunes:author>
+            <itunes:subtitle>{{ site.data.podcast.title | xml_escape }}: {{ episode.title | xml_escape }}</itunes:subtitle>
+            <itunes:summary>{{ episode.description | xml_escape }}</itunes:summary>
+            <itunes:image href="{{ site.data.podcast.image }}" />
+            <enclosure url="{{ episode.file }}" length="{{ episode.length }}" type="audio/mp3"/>
+            <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ episode.url }}</guid>
+            <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
+            <itunes:duration>{{ episode.duration }}</itunes:duration>
+            <itunes:explicit>{{ episode.explicit }}</itunes:explicit>
+            <description>{{ episode.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ episode.url }}.</description>
+            <itunes:keywords>{{ episode.keywords }}</itunes:keywords>
+            <itunes:block>{{ episode.block }}</itunes:block>
+		</item>
+{% endfor %}
+	</channel>
+</rss>
