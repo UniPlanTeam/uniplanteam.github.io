@@ -23,7 +23,7 @@ email: yourfriends@uniplanteam.com
 description: >- # this means to ignore newlines until "baseurl:"
   Introducing UniPlan. We're creating a great app to help you organize your entire educational career. You'll never forget what assignments are due, what exams are coming up, and what you need to study. You'll find that staying organized and being successful in your educational endeavors is easy and attainable.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://uniplanteam.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uniplanteam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: UniPlanTeam
 permalink: /:categories/:slug/
 
