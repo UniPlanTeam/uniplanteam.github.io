@@ -45,10 +45,10 @@
                     {% for post in site.posts offset:1 %}
                     <div class="col-sm-4">
                         <div class="card border-white w-75">
-                            <a href="{{ page.url }}">
+                            <a href="{{ post.url }}">
                                 <img
                                     src="{{ post.featured_image }}"
-                                    alt=""
+                                    alt="{{ post.featured_image_alt }}"
                                     class="card-img-top"
                                 />
                                 <div class="overlay"></div>
