@@ -22,11 +22,18 @@
         <itunes:category text="{{ site.data.podcast.primary_category }}">
             <itunes:category text="{{ site.data.podcast.primary_subcategory }}" />
         </itunes:category> 
+        <itunes:category text="{{ site.data.podcast.secondary_category }}">
+            <itunes:category text="{{ site.data.podcast.secondary_subcategory }}" />
+        </itunes:category> 
+        <itunes:category text="{{ site.data.podcast.tertiary_category }}">
+            <itunes:category text="{{ site.data.podcast.tertiary_subcategory }}" />
+        </itunes:category> 
         <itunes:explicit>no</itunes:explicit>
 		
 {% for episode in site.podcast %}
         <item>
             <title>{{ episode.title | xml_escape }}</title>
+            <itunes:title>{{ episode.title | xml_escape }}</itunes:title>
             <itunes:author>{{ site.data.podcast.author }}</itunes:author>
             <itunes:subtitle>{{ site.data.podcast.title | xml_escape }}: {{ episode.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ episode.description | xml_escape }}</itunes:summary>
