@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast-episode
 title: "How Important is Your College Major to Your Future"
 date: 2019-08-07 19:44:00
 file: https://archive.org/download/tss-2/tss-2.mp3

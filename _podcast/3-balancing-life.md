@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast-episode
 title: "Balancing Life"
 date: 2019-08-15 14:08:00
 file: https://archive.org/download/tss-3/tss-3.mp3

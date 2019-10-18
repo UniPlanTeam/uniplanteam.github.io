@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast-episode
 title: "How to Get a Head Start on a College Term"
 date: 2019-08-03 14:46:00
 file: https://archive.org/download/tss-1/tss-1.mp3
