@@ -1,67 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="/dist/main.css" />
-    <title>Blog - {{ site.title }}</title>
-  </head>
-  <body>
-    {% include navigation.html %} {% include blog-header.html %} {% for post in
-    site.posts limit:1 %}
-    <section id="blog-featured" class="my-5">
-      <div class="container">
-        <a href="{{ post.url }}">
-          <div class="row bg-tertiary">
-            <div class="col-md-6 text-center align-self-center">
-              <div class="container my-auto">
-                <p>Latest Post</p>
-                <p class="lead font-weight-bold">{{ post.title }}</p>
-                <p>
-                  {{ post.excerpt }}
-                </p>
-              </div>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <link rel="stylesheet" href="/dist/main.css" />
+        <title>Blog - {{ site.title }}</title>
+    </head>
+    <body>
+        {% include navigation.html %} {% include blog-header.html %} {% for post
+        in site.posts limit:1 %}
+        <section id="blog-featured" class="my-5">
+            <div class="container">
+                <a href="{{ post.url }}">
+                    <div class="row bg-tertiary">
+                        <div class="col-md-6 text-center align-self-center">
+                            <div class="container my-auto">
+                                <p>Latest Post</p>
+                                <p class="lead font-weight-bold">
+                                    {{ post.title }}
+                                </p>
+                                <p>
+                                    {{ post.excerpt }}
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md-6 m-0 p-0">
+                            <img
+                                src="{{ post.featured_image }}"
+                                alt="{{ post.featured_image_alt }}"
+                                class="img-fluid"
+                            />
+                            <div class="overlay"></div>
+                        </div>
+                    </div>
+                </a>
             </div>
-            <div class="col-md-6 m-0 p-0">
-              <img
-                src="{{ post.featured_image }}"
-                alt="{{ post.featured_image_alt }}"
-                class="img-fluid"
-              />
-              <div class="overlay"></div>
-            </div>
-          </div>
-        </a>
-      </div>
-    </section>
-    {% endfor %}
+        </section>
+        {% endfor %}
 
-    <section id="blog-main">
-      <div class="container">
-        <div class="row">
-          {% for post in site.posts offset:1 %}
-          <div class="col-sm-4">
-            <a href="{{ post.url }}">
-              <div class="card w-100">
-                <img
-                  src="{{ post.featured_image }}"
-                  alt=""
-                  class="card-img-top"
-                />
-                <div class="card-body">
-                  <h5 class="card-title">{{ post.title }}</h5>
-                  <p class="card-text text-truncate">{{ post.excerpt }}</p>
+        <section id="blog-main">
+            <div class="container">
+                <div class="row">
+                    {% for post in site.posts offset:1 %}
+                    <div class="col-sm-4">
+                        <div class="card border-white w-75">
+                            <a href="{{ page.url }}">
+                                <img
+                                    src="{{ post.featured_image }}"
+                                    alt=""
+                                    class="card-img-top"
+                                />
+                                <div class="overlay"></div>
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ post.title }}</h5>
+                                    <p class="card-text">
+                                        {{ post.excerpt | truncate: 150 }}
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    {% endfor %}
                 </div>
-              </div>
-            </a>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </section>
+            </div>
+        </section>
 
-    {% include footer.html %} {% include scripts.html %} {% include
-    get-year-script.html %}
-  </body>
+        {% include footer.html %} {% include scripts.html %} {% include
+        get-year-script.html %}
+    </body>
 </html>

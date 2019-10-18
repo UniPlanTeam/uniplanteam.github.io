@@ -5,21 +5,23 @@ $secondary: #fbc02d;
 $secondary-light: #fff263;
 $secondary-dark: #c49000;
 $gray-100: #f8f9fa;
+$white: #ffffff;
 
 $theme-colors: ();
 $theme-colors: map-merge(
-  (
-    "primary": $primary,
-    "primary-light": $primary-light,
-    "primary-dark": $primary-dark,
-    "secondary": $secondary,
-    "secondary-light": $secondary-light,
-    "secondary-dark": $secondary-dark,
-    "tertiary": $gray-100,
-    "light": #eeeeee,
-    "dark": #3a4750,
-    "darkest": #303841,
-    "deep-red": #d72323
-  ),
-  $theme-colors
+    (
+        "primary": $primary,
+        "primary-light": $primary-light,
+        "primary-dark": $primary-dark,
+        "secondary": $secondary,
+        "secondary-light": $secondary-light,
+        "secondary-dark": $secondary-dark,
+        "tertiary": $gray-100,
+        "white": $white,
+        "light": #eeeeee,
+        "dark": #3a4750,
+        "darkest": #303841,
+        "deep-red": #d72323
+    ),
+    $theme-colors
 );

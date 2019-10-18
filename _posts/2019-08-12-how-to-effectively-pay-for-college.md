@@ -4,7 +4,7 @@ date: 2019-08-12 21:02:46 -0700
 author: David Chuong
 layout: post
 guid: http://www.uniplanteam.com/?p=183
-featured_image: /assets/images/how-to-effectively-pay-for-college/college-FAFSA.jpg
+featured_image: /assets/images/how-to-effectively-pay-for-college/college-credit-score.jpeg
 categories: [blog, How to Succeed in College]
 ---
 
