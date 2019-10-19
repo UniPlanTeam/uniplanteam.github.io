@@ -35,7 +35,7 @@
             <title>{{ episode.title | xml_escape }}</title>
             <itunes:title>{{ episode.title | xml_escape }}</itunes:title>
             <itunes:episode>{{ episode.slug }}</itunes:episode>
-            <link>{{ episode.url }}</link>
+            <link>{{ site.url }}{{ site.baseurl }}{{ episode.url }}</link>
             <itunes:author>{{ site.data.podcast.author }}</itunes:author>
             <itunes:subtitle>{{ site.data.podcast.title | xml_escape }}: {{ episode.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ episode.description | xml_escape }}</itunes:summary>
