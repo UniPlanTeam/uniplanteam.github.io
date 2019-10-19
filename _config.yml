@@ -21,23 +21,23 @@
 title: UniPlan - An all-in-one organizer for college students
 email: yourfriends@uniplanteam.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Introducing UniPlan. We're creating a great app to help you organize your entire educational career. You'll never forget what assignments are due, what exams are coming up, and what you need to study. You'll find that staying organized and being successful in your educational endeavors is easy and attainable.
+    Introducing UniPlan. We're creating a great app to help you organize your entire educational career. You'll never forget what assignments are due, what exams are coming up, and what you need to study. You'll find that staying organized and being successful in your educational endeavors is easy and attainable.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://uniplanteam.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://uniplan.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: UniPlanTeam
 permalink: /:categories/:slug/
 
 # Collections
 collections:
-  team:
-    output: true
-  podcast:
-    output: true
-    permalink: /:collection/:title
+    team:
+        output: true
+    podcast:
+        output: true
+        permalink: /:collection/:title
 
 # Build settings
 plugins:
-  - jekyll-feed
+    - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -47,7 +47,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - vendor/
+    - vendor/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
