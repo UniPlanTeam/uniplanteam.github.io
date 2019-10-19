@@ -1,7 +1,7 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xml:lang="{{ site.lang }}">
 
     <channel>
 		<atom:link href="{{ site.url }}/feed/podcast/" rel="self" type="application/rss+xml" />
@@ -11,6 +11,7 @@
         <copyright>&#xA9; {{ site.time | date: "%Y" }}</copyright>
 		<itunes:subtitle>{{ site.data.podcast.subtitle | xml_escape }}</itunes:subtitle>
         <itunes:author>{{ site.data.podcast.author }}</itunes:author>
+        <googleplay:author>{{ site.data.podcast.author }}</googleplay:author>
 		<itunes:summary>{{ site.data.podcast.description | xml_escape }}</itunes:summary>
         <description>{{ site.data.podcast.description | xml_escape }}</description>
 		<webMaster>{{ site.data.podcast.owner_email }} (Julian Vu)</webMaster>
@@ -19,6 +20,7 @@
 			<itunes:email>{{ site.data.podcast.owner_email }}</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.data.podcast.image }}" />
+        <googleplay:image href="{{ site.data.podcast.image }}" />
         <itunes:category text="{{ site.data.podcast.primary_category }}">
             <itunes:category text="{{ site.data.podcast.primary_subcategory }}" />
         </itunes:category> 
@@ -46,6 +48,7 @@
             <itunes:duration>{{ episode.duration }}</itunes:duration>
             <itunes:explicit>{{ episode.explicit }}</itunes:explicit>
             <description>{{ episode.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ episode.url }}.</description>
+            <googleplay:description>{{ episode.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ episode.url }}.</googleplay:description>
             <itunes:keywords>{{ episode.keywords }}</itunes:keywords>
             <itunes:block>{{ episode.block }}</itunes:block>
 		</item>
