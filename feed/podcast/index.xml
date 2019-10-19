@@ -4,7 +4,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 
     <channel>
-		<atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.url }}/feed/podcast/" rel="self" type="application/rss+xml" />
 		<title>{{ site.data.podcast.title }}</title>
 		<link>{{ site.url }}/podcast/</link>
 		<language>{{ site.data.podcast.language }}</language>
@@ -38,7 +38,7 @@
             <link>{{ site.url }}{{ site.baseurl }}{{ episode.url }}</link>
             <itunes:author>{{ site.data.podcast.author }}</itunes:author>
             <itunes:subtitle>{{ site.data.podcast.title | xml_escape }}: {{ episode.title | xml_escape }}</itunes:subtitle>
-            <itunes:summary>{{ episode.description | xml_escape }}</itunes:summary>
+            <itunes:summary>{{ episode.description | xml_escape }} Show Notes Available at {{ site.url }}{{ site.baseurl }}{{ episode.url }}.</itunes:summary>
             <itunes:image href="{{ site.data.podcast.image }}" />
             <enclosure url="{{ episode.file }}" length="{{ episode.length }}" type="audio/mp3"/>
             <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ episode.url }}</guid>
