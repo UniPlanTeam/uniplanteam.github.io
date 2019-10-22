@@ -14,8 +14,9 @@
         <title>The Study Space Podcast - {{ site.title }}</title>
     </head>
     <body>
-        {% include navigation.html %} {% include podcast-header.html %} {% for
-        episode in site.podcast limit:1 %}
+        {% include navigation.html %} {% include podcast-header.html %} {%
+        assign sorted = site.podcast | reverse %} {% for episode in sorted
+        limit:1 %}
         <section id="blog-featured" class="my-5">
             <div class="container">
                 <a href="{{ episode.url }}">
@@ -48,7 +49,7 @@
         <section id="blog-main">
             <div class="container">
                 <div class="row">
-                    {% for episode in site.podcast offset:1 %}
+                    {% for episode in sorted offset:1 %}
                     <div class="col-sm-4">
                         <div class="card border-black w-75">
                             <a href="{{ episode.url }}">
