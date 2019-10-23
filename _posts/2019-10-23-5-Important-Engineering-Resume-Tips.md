@@ -1,5 +1,5 @@
 ---
-title: 5 Important Engineering Resume Tips
+title: 
 date: 2019-10-23 04:05:00 -0400
 author: David Chuong
 layout: post
