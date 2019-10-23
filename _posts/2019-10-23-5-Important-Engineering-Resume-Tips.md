@@ -17,7 +17,7 @@ mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of NTNU</figcaption>
 </figure>
 
-**Tip #1: Include Projects **
+**Tip #1: Include Projects**
 
 As an engineering student in college, you most likely do not have previous work experience or internships. Because of this, having **projects** on your resume is crucial to ensuring that you will land your first job. Projects demonstrate the skills you have to offer, and having a wide variety of projects can give employers insight into what you have to offer to their company.
 
@@ -35,7 +35,7 @@ I would also make sure to include any projects that you did for engineering clas
 
 Independent projects may not seem worthy of inclusion to many people, but in the world of STEM, they can actually prove to hold much value. While the majority of engineering students have projects that they constructed for competitions or classes, I guarantee that very few actually go off on their own and make projects just for the sake of fun and experimentation. Well-designed independent projects can show employers that you are truly passionate about your work, making you a great candidate for any engineering job.
 
-**Tip #2: Elaborate on Relevant Engineering Technologies **
+**Tip #2: Elaborate on Relevant Engineering Technologies**
 
 While you can easily state certain engineering technologies that you are familiar with, such as the programming language Java or the 3D modelling software AutoCAD, employers will find your resume much more attractive if you actually elaborate on **how** you used those technologies to contribute to a project or complete a task you were given during an internship.
 
@@ -63,7 +63,7 @@ mt-5 mb-2 d-block w-75" />
 
 Societies such as the Institute of Electrical and Electronics Engineers (IEEE) are highly regarded by electrical engineering employers, so if you ever have the opportunity to join a professional engineering society, do so. It definitely cannot hurt you to put these types of organizations on your resume, and it certainly opens up more doors for opportunities. 
 
-**Tip #4: Talk About Growth From Internships **
+**Tip #4: Talk About Growth From Internships**
 
 A mistake I see on many resumes is students listing responsibilities they had as an engineering intern or project team member, but not going much further than that. **Always** talk about how an experience helped you develop your skills or gave you the chance to explore an area of interest that you may have not known much about before.
 
