@@ -7,8 +7,6 @@ featured_image: /assets/images/5-Important-Engineering-Resume-Tips/image_0.png
 featured_image_alt: This is a picture of an engineer working in a lab to fabricate an item. He is wearing safety goggles and a lab coat, and is using tweezers to put an item into a machine.
 categories: blog
 ---
-**5 Important Engineering Student Resume Tips**
-
 The field of engineering is generally considered one of the most competitive fields to obtain an internship or job within—engineering companies want to hire only the most driven and highly skilled students as interns, and during an age in which the STEM fields have become increasingly popular due to their lucrative nature, this selectiveness has only risen. In this blog, I’ll be specifically discussing how to make your resume stand out as an engineering student and show that you have the skills necessary to contribute to a company’s objectives.
 
 <figure class="figure">
@@ -43,7 +41,7 @@ While you can easily state certain engineering technologies that you are familia
 
 <figure class="figure">
 <img
-src="/assets/images/5-Important-Engineering-Resume-Tips/image_2.png" 
+src="/assets/images/5-Important-Engineering-Resume-Tips/image_2.jpg" 
 alt="This is a picture of an electrical engineer using an oscilliscope for a lab experiment." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of Alexander Drummer</figcaption>
@@ -57,7 +55,7 @@ This is a bit of an odd tip, but I would highly encourage you to join reputable 
 
 <figure class="figure">
 <img
-src="/assets/images/5-Important-Engineering-Resume-Tips/image_3.jpg" 
+src="/assets/images/5-Important-Engineering-Resume-Tips/image_3.png" 
 alt="This is a picture of the UC Irvine MESA logo." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">I was a member of the MESA program throughout all 4 years of high school, and it gave me access to many educational/career opportunities I would not have had before.</figcaption>
