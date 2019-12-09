@@ -1,7 +1,7 @@
 ---
 layout: podcast-episode
 title: "How to Stay Energized as a College Student"
-date: 2019-11-01 14:08:00
+date: 2019-12-02 14:08:00
 file: https://archive.org/download/tss-6/tss-6.mp3
 description: "Perhaps the easiest thing about being a college student is feeling tired all the time. You can feel as though you have no energy for numerous reasons. When juggling homework, studying, career, and life, feeling overtired comes as no surprise to anyone. So how do people do it? How do other students seem to get through college just fine when you feel so exhausted from everything? 
 
