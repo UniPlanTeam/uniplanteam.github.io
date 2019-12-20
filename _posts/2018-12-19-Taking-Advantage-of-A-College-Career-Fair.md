@@ -2,7 +2,7 @@
 date: 2019-12-19 22:49:50 -0700
 author: David Chuong
 layout: post
-featured_image: /assets/images/Taking-Advantage-of-A-College-Career-Fair/image_4.png
+featured_image: /assets/images/Taking-Advantage-of-a-College-Career-Fair/image_4.png
 featured_image_alt: This is a picture of a student approaching a company's booth in order to talk to them about what they do.
 categories: blog
 ---
