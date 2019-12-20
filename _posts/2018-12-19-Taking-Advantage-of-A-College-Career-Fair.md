@@ -1,4 +1,5 @@
 ---
+title:
 date: 2019-12-19 22:49:50 -0700
 author: David Chuong
 layout: post
