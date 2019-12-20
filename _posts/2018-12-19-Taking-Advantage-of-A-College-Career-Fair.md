@@ -7,6 +7,7 @@ featured_image: /assets/images/Taking-Advantage-of-a-College-Career-Fair/image_4
 featured_image_alt: This is a picture of a student approaching a company's booth in order to talk to them about what they do.
 categories: blog
 ---
+
 I am currently attending Johns Hopkins as a freshman studying Electrical Engineering. I chose this school, among other reasons, because I felt that it had the most opportunities to offer me in regards to employment and research—and I certainly wasn’t wrong. Just a few weeks ago, I attended a career fair specifically designed for STEM employers to find STEM students looking to work as an intern or an employee in a company tailored to their skillset; as a powerhouse research and engineering school, this practice is quite standard for Hopkins. 
 
 <figure class="figure">
