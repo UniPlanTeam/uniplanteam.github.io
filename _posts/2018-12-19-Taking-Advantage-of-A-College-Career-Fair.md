@@ -12,7 +12,7 @@ I am currently attending Johns Hopkins as a freshman studying Electrical Enginee
 
 <figure class="figure">
 <img
-src="/assets/images/Taking-Advantage-of-a-Career-Fair/image_0.png" 
+src="/assets/images/Taking-Advantage-of-a-College-Career-Fair/image_0.png" 
 alt="This is a picture of a building in the Johns Hopkins University Wyman Quad, which is the area where all the engineering buildings are centered. I chose Johns Hopkins because I felt it had the most opportunities to offer me in regards to employment and research." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of The Johns Hopkins Whiting School of Engineering</figcaption>
@@ -22,7 +22,7 @@ As a freshman, most students don’t even attend the career fair because it’s 
 
 <figure class="figure">
 <img 
-src="/assets/images/Taking-Advantage-of-a-Career-Fair/image_1.jpg" 
+src="/assets/images/Taking-Advantage-of-a-College-Career-Fair/image_1.jpg" 
 alt="This is an image of two people shaking hands, just like they would at a college career fair." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of Oleg Magni</figcaption>
@@ -34,7 +34,7 @@ The first thing I noticed was that each employer had these huge stacks of resume
 
 <figure class="figure">
 <img
-src="/assets/images/Taking-Advantage-of-a-Career-Fair/image_2.jpg" 
+src="/assets/images/Taking-Advantage-of-a-College-Career-Fair/image_2.jpg" 
 alt="This is an example of what a college career fair looks like. It is in a gymnasium, packed with employers who want to showcase their companies, and students who want to apply for work." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of The University of Delaware</figcaption>
@@ -48,7 +48,7 @@ The point here is that, at least in my case (as well as many other schools, I’
 
 <figure class="figure">
 <img
-src="/assets/images/Taking-Advantage-of-a-Career-Fair/image_3.png" 
+src="/assets/images/Taking-Advantage-of-a-College-Career-Fair/image_3.png" 
 alt="This is a picture of two students talking to employers and being handed information about their company." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of The University of Michigan</figcaption>
@@ -62,7 +62,7 @@ My advice for approaching career fairs is to introduce yourself to which compani
 
 <figure class="figure">
 <img
-src="/assets/images/Taking-Advantage-of-a-Career-Fair/image_4.png" 
+src="/assets/images/Taking-Advantage-of-a-College-Career-Fair/image_4.png" 
 alt="This is a picture of a student approaching a company's booth in order to talk to them about what they do." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of Penn State</figcaption>
