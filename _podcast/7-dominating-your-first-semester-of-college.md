@@ -12,7 +12,7 @@ explicit: "no" #other option is no
 block: "no" #means is shown in itunes
 featured_image: /assets/images/dominating-your-first-semester-of-college/feature.jpg
 featured_image_alt: "A man jumping with joy in the sunset."
-slug: "6"
+slug: "7"
 ---
 
 For new students unaccustomed to college life, feeling as though you need to start your first semester or term off strong is natural. Many students define “dominating” their first semester as getting a 4.0 GPA, landing an internship, or participating in research opportunities with their professors. While these are all noble aspirations, success is not solely comprised of academics.
