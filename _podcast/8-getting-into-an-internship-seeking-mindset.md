@@ -20,7 +20,7 @@ To think that you need to focus on getting good grades and being immersed in the
 In this episode of The Study Space Podcast, we discuss how to get into an internship-seeking mindset and how to begin your search for internships. We talk about the different ways in which we’ve looked for internships and which approaches we found worked better for us.
 
 <figure class="figure">
-    <img src="/assets/images/getting-into-an-internship-seeking-mindset/feature.jpg" alt="The back of a man in a suit jacket standing in the middle of a bustling city street." class="mx-auto mt-5 mb-2 d-block w-75" />
+    <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" class="mx-auto mt-5 mb-2 d-block w-75" />
 </figure>
 
 Things mentioned in this episode:

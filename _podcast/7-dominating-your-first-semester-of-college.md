@@ -20,7 +20,7 @@ For new students unaccustomed to college life, feeling as though you need to sta
 In this episode of The Study Space Podcast, we discuss how to dominate your first semester of college by looking back at our first semesters and talking about the things we did right, but also things we did wrong or could have done better.
 
 <figure class="figure">
-    <img src="/assets/images/dominating-your-first-semester-of-college/feature.jpg" alt="A man jumping with joy in the sunset." class="mx-auto mt-5 mb-2 d-block w-75" />
+    <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" class="mx-auto mt-5 mb-2 d-block w-75" />
 </figure>
 
 Things mentioned in this episode:

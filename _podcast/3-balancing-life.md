@@ -8,8 +8,8 @@ duration: "70:06" #audio length in min
 length: "64966473" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
-featured_image: /assets/images/podcast-cover@0.5x.png
-featured_image_alt: "The Study Space Podcast cover"
+featured_image: /assets/images/balancing-life/feature.jpg
+featured_image_alt: "A silhouette photo of man balancing on a rock"
 slug: "3"
 ---
 
@@ -17,21 +17,25 @@ Many students believe that going to college means giving up all of your free tim
 
 In this episode of The Study Space, we discuss how we approach this idea of “balance” in our lives and what that really means. We cover the activities in which we participated and how they affected our time, attention, and energy. We also talk about our reasons for making certain decisions and evaluating our priorities.
 
+<figure class="figure">
+    <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" class="mx-auto mt-5 mb-2 d-block w-75" />
+</figure>
+
 Things mentioned in this episode:
 
-- APIASF Scholarship
-- What Julian did in his first years of university
-- Fraternities and honor societies
-- Julian’s reasons for focusing more on academics than socializing
-- Professional development outside of class
-- Our Princeton colleague
-- Evaluating priorities
-- Sacrifices
-- David’s participation in the National Engineering Design Competition
-- Purposeful imbalance
-- The UniPlan mobile app beta test at uniplanteam.com
-- Undergraduate research
-- NASA internship during semester
+-   APIASF Scholarship
+-   What Julian did in his first years of university
+-   Fraternities and honor societies
+-   Julian’s reasons for focusing more on academics than socializing
+-   Professional development outside of class
+-   Our Princeton colleague
+-   Evaluating priorities
+-   Sacrifices
+-   David’s participation in the National Engineering Design Competition
+-   Purposeful imbalance
+-   The UniPlan mobile app beta test at uniplanteam.com
+-   Undergraduate research
+-   NASA internship during semester
 
 Your hosts: David Chuong and Julian Vu
 

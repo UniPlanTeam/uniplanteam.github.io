@@ -20,7 +20,7 @@ Perhaps the easiest thing about being a college student is feeling tired all the
 In this episode of The Study Space Podcast, we try to answer these questions and show you how to stay energized as a college student. We talk about the perpetual cycle of fatigue and how falling behind has the dangerous tendency of causing you to fall even more behind. We also propose some quick solutions that have worked for us to stay energized.
 
 <figure class="figure">
-    <img src="/assets/images/how-to-stay-energized-as-a-college-student/latte.jpg" alt="A caffe latte cup with a typical leaf as latte art" class="mx-auto mt-5 mb-2 d-block w-75" />
+    <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" class="mx-auto mt-5 mb-2 d-block w-75" />
 </figure>
 
 Things mentioned in this episode:
