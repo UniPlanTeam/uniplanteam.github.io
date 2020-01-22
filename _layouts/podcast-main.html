@@ -51,16 +51,20 @@
                 <div class="row">
                     {% for episode in sorted offset:1 %}
                     <div class="col-sm-4">
-                        <div class="card border-black w-75">
+                        <div class="card border-white w-75">
                             <a href="{{ episode.url }}">
+                                <img
+                                    src="{{ episode.featured_image }}"
+                                    alt="{{ episode.featured_image_alt }}"
+                                    class="card-img-top"
+                                />
                                 <div class="overlay"></div>
                                 <div class="card-body">
                                     <h5 class="card-title">
-                                        {{ episode.title | truncatewords: 4 }}
+                                        {{ episode.title }}
                                     </h5>
                                     <p class="card-text">
-                                        {{
-                                            episode.description | truncate: 150
+                                        {{ episode.description | truncate: 150
                                         }}
                                     </p>
                                 </div>
