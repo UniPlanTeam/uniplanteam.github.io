@@ -3,7 +3,7 @@ title:
 date: 2020-02-21 21:02:46 -0700
 author: David Chuong
 layout: post
-featured_image: /assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_0.jpg
+featured_image: /assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_0.png
 featured_image_alt: Harvard University, building, stone pillars, banners, stairs, steps
 categories: blog
 ---
