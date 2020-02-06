@@ -31,7 +31,7 @@ mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of UC Berkeley</figcaption>
 </figure>
 
-I **strongly** advise against this approach for two reasons. One, colleges can see right through shallow or fabricated applications, and two, if you do get into a college using a fake persona on your application, you might not be a good fit for the school and may even come to hate it. If you stay true to yourself, you are more likely to get into the college that will fit **your **personality and what **you** want. Just as much as colleges are looking for applicants that will fit into their school, you need to also recognize that you should pick colleges that you will fit into. You don’t want to attend a college that doesn’t offer what you want from them—that’s not an invalidation of your application, it’s just the college saying that perhaps they’re not right for you. 
+I **strongly** advise against this approach for two reasons. One, colleges can see right through shallow or fabricated applications, and two, if you do get into a college using a fake persona on your application, you might not be a good fit for the school and may even come to hate it. If you stay true to yourself, you are more likely to get into the college that will fit **your** personality and what **you** want. Just as much as colleges are looking for applicants that will fit into their school, you need to also recognize that you should pick colleges that you will fit into. You don’t want to attend a college that doesn’t offer what you want from them—that’s not an invalidation of your application, it’s just the college saying that perhaps they’re not right for you. 
 
 **Leveraging Passion**
 
