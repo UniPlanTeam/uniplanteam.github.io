@@ -109,7 +109,7 @@ It can be tempting to dedicate your entire high school career to perfecting your
 
 <figure class="figure">
 <img
-src="/assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_6.png" 
+src="/assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_7.png" 
 alt="Student, studying, books, table" class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of Pixabay</figcaption>
