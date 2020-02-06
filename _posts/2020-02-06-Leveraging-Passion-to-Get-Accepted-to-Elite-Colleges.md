@@ -1,6 +1,6 @@
 ---
 title: 
-date: 2020-02-21 21:02:46 -0700
+date: 2020-02-21 13:04:00 -500
 author: David Chuong
 layout: post
 featured_image: /assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_0.png
