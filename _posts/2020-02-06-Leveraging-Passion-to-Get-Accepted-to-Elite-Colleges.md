@@ -31,9 +31,9 @@ mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of UC Berkeley</figcaption>
 </figure>
 
-I **strongly **advise against this approach for two reasons. One, colleges can see right through shallow or fabricated applications, and two, if you do get into a college using a fake persona on your application, you might not be a good fit for the school and may even come to hate it. If you stay true to yourself, you are more likely to get into the college that will fit **your **personality and what **you** want. Just as much as colleges are looking for applicants that will fit into their school, you need to also recognize that you should pick colleges that you will fit into. You don’t want to attend a college that doesn’t offer what you want from them—that’s not an invalidation of your application, it’s just the college saying that perhaps they’re not right for you. 
+I **strongly** advise against this approach for two reasons. One, colleges can see right through shallow or fabricated applications, and two, if you do get into a college using a fake persona on your application, you might not be a good fit for the school and may even come to hate it. If you stay true to yourself, you are more likely to get into the college that will fit **your **personality and what **you** want. Just as much as colleges are looking for applicants that will fit into their school, you need to also recognize that you should pick colleges that you will fit into. You don’t want to attend a college that doesn’t offer what you want from them—that’s not an invalidation of your application, it’s just the college saying that perhaps they’re not right for you. 
 
-**Leveraging Passion **
+**Leveraging Passion**
 
 The key here is **passion**. Think of your passion as your destination, and focus on controlling your path to that passion, not the passion itself. Both fortunately and unfortunately, your passion will determine two of the major criteria on your applications, but you have the power to meld your passion perfectly into each of those factors. 
 
@@ -47,7 +47,7 @@ mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">My college's rocketry club did a hot-fire test of our engine last semester. You should try to find a way to do these activities in high school if you can.</figcaption>
 </figure>
 
-**Dealing with Limited Opportunities **
+**Dealing with Limited Opportunities**
 
 If your school doesn’t offer clubs that fit your specific niche, you can find outside competitions that your school isn’t participating in. I knew that my school had never joined the Intel International Science and Engineering Fair before, but I was still eligible to participate as long as I signed up and indicated that I was a high school student. Going outside of school to find competitions and activities is perfectly acceptable, as colleges don’t specifically indicate that your activities need to be sponsored by your school. 
 
@@ -87,13 +87,13 @@ mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">This was my Arduino project for a high school competition. I still use Arduinos to this day.</figcaption>
 </figure>
 
-**Writing Masterful Essays **
+**Writing Masterful Essays**
 
 The other big criteria that colleges look at when determining if you should attend their school is your essays. The Common App will have one essay that everyone has to write (you can choose your prompt for this one), and each school you apply to will also have their own supplemental essays that they want you to fill out (these you usually cannot choose). The only thing I can really say here is to make sure that you are genuine. 
 
 <figure class="figure">
 <img
-src="/assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_6.jpg" 
+src="/assets/images/Leveraging-Passion-to-Get-Accepted-to-Elite-Colleges/image_6.png" 
 alt="Student, writing, essay, paper, pen, table" class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of picjumbo</figcaption>
@@ -117,6 +117,6 @@ mt-5 mb-2 d-block w-75" />
 
 This goes to show after you cross a certain bar in GPA and SAT scores, colleges will disregard your academics and focus primarily on the unique profile that you have built for yourself through your extracurricular activities and essays. Therefore, I believe that, as long as your academic factors are relatively good, it is actually more important to focus on your extracurriculars as opposed to further raising those scores. It will make you happier because you actually have something to look forward to every week, and you'll also be making a much better impression on college application reviewers.
 
-**The Big Takeaway **
+**The Big Takeaway**
 
 I’ve emphasized this a lot in this blog post, but I have to say it again—passion, passion, passion! Passion should be the basis of your college application, and your goal should be to showcase it. I guarantee you that it’ll make a difference when you apply, and even if it doesn’t quite get you the results you want, it will make a difference in your college career, and hopefully after that as well. 
