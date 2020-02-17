@@ -16,8 +16,6 @@ featured_image_alt: "The words 'How to Get Into the Flow' next two a torquoise b
 slug: "11"
 ---
 
-**DISCLAIMER: This episode is not meant to serve as a substitute for medical advice or diagnoses given by a doctor or other healthcare professional. Please consult a doctor to properly evaluate your situation, give diagnoses and provide other medical advice.**
-
 {{ page.description }}
 
 <figure class="figure">
