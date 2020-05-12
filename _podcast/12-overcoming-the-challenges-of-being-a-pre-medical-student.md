@@ -24,26 +24,27 @@ slug: "12"
 
 Things mentioned in this episode:
 
--   Inspiration for going into pre-medical track
--   How upbringing can motivate your goals
--   Psychological pressure to always be the perfect student
--   Neurotic culture and competitiveness among students to gain admission to medical school
--   Planning too far in advance can bog down your mind
--   Don't socially isolate yourself
--   Go through tough classes with friends
--   Don't limit your extracurricular activities to your professional goals—have fun!
--   Undergraduate research
--   [YouTube Link to Dr. Gregg L. Semenza's Nobel Lecture on Hypoxia-Inducible Factors in Physiology and Medicine](https://www.youtube.com/watch?v=B_KBgSXUWoM)
--   [Slides to Dr. Gregg L. Semenza's Nobel Lecture on Hypoxia-Inducible Factors in Physiology and Medicine](https://www.nobelprize.org/uploads/2019/10/semenza-lecture-slides.pdf)
--   Taking a gap year is normal
--   Can anyone become a doctor?
--   Think about your happiness, and your reasons for pursuing medicine
+- Inspiration for going into pre-medical track
+- How upbringing can motivate your goals
+- Psychological pressure to always be the perfect student
+- Neurotic culture and competitiveness among students to gain admission to medical school
+- Planning too far in advance can bog down your mind
+- Don't socially isolate yourself
+- Go through tough classes with friends
+- Don't limit your extracurricular activities to your professional goals—have fun!
+- Undergraduate research
+- [YouTube Link to Dr. Gregg L. Semenza's Nobel Lecture on Hypoxia-Inducible Factors in Physiology and Medicine](https://www.youtube.com/watch?v=B_KBgSXUWoM)
+- [Slides to Dr. Gregg L. Semenza's Nobel Lecture on Hypoxia-Inducible Factors in Physiology and Medicine](https://www.nobelprize.org/uploads/2019/10/semenza-lecture-slides.pdf)
+- Taking a gap year is normal
+- Can anyone become a doctor?
+- Think about your happiness, and your reasons for pursuing medicine
 
 <figure class="figure">
     <img src="/assets/images/12-overcoming-the-challenges-of-being-a-pre-medical-student/andre.jpg" alt="A profile picture of Andre Vu standing outdoors with a blue shirt and black pants" class="mx-auto mt-5 mb-2 d-block w-75" />
 </figure>
 
 Your host: David Chuong
+
 Featured guest: Andre Vu
 
 Music: "Please Listen Carefully" by [Jahzzar](https://soundcloud.com/jahzzar) is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).

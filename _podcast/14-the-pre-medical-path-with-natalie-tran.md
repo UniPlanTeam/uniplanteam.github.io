@@ -35,6 +35,7 @@ Things mentioned in this episode:
 - What it takes to be a pre-medical student
 
 Your host: David Chuong
+
 Featured guest: Natalie Tran
 
 Music: "Please Listen Carefully" by [Jahzzar](https://soundcloud.com/jahzzar) is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).
