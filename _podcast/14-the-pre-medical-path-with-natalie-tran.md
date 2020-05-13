@@ -34,6 +34,10 @@ Things mentioned in this episode:
 - COVID-19 pandemic and its effects to education and learning
 - What it takes to be a pre-medical student
 
+<figure class="figure">
+    <img src="/assets/images/14-the-pre-medical-path-with-natalie-tran/natalie.PNG" alt="A profile picture of Natalie Tran" class="mx-auto mt-5 mb-2 d-block w-75" />
+</figure>
+
 Your host: David Chuong
 
 Featured guest: Natalie Tran
