@@ -38,9 +38,9 @@ Things mentioned in this episode:
 - IB exams were cancelled this year
 - The College Board cancels virtual SAT exams
 
-<figure class="figure">
-    <img src="/assets/images/19-the-coronavirus-ap-exams-in-spring-2020/minh.jpg" alt="A profile picture of Minh Duong" class="mx-auto mt-5 mb-2 d-block w-75">
-</figure>
+<div class="container">
+    <img src="/assets/images/19-the-coronavirus-ap-exams-in-spring-2020/minh.jpg" alt="A profile picture of Minh Duong" class="mx-auto mt-5 mb-2 d-block mw-75">
+</div>
 
 Your hosts: David Chuong and Julian Vu
 
