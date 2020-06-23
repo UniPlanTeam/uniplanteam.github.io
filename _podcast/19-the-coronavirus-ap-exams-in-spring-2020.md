@@ -27,16 +27,20 @@ slug: "19"
 
 Things mentioned in this episode:
 
--   How the virtual exams differ from the in-person exams
--   Studying for the virtual exams created more stress for Minh
--   Technical issues during the virtual AP exams
--   How exams were submitted
--   Cheating and collaboration
--   Distractions during the exam
--   Incompatible image formats forced students to retake exams
--   The College Board is being sued by several students for the technical issues
--   IB exams were cancelled this year
--   The College Board cancels virtual SAT exams
+- How the virtual exams differ from the in-person exams
+- Studying for the virtual exams created more stress for Minh
+- Technical issues during the virtual AP exams
+- How exams were submitted
+- Cheating and collaboration
+- Distractions during the exam
+- Incompatible image formats forced students to retake exams
+- The College Board is being sued by several students for the technical issues
+- IB exams were cancelled this year
+- The College Board cancels virtual SAT exams
+
+<figure class="figure">
+    <img src="/assets/images/19-the-coronavirus-ap-exams-in-spring-2020/minh.jpg" alt="A profile picture of Minh Duong" class="mx-auto mt-5 mb-2 d-block w-75">
+</figure>
 
 Your hosts: David Chuong and Julian Vu
 
