@@ -1,68 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <link rel="stylesheet" href="/dist/main.css" />
-        <title>{{ site.title }}</title>
-    </head>
-    <body>
-        {% include navigation.html %}
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-171047309-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-        <div
-            id="main-header"
-            class="jumbotron jumbotron-fluid bg-primary text-light mt-5 mb-0"
-        >
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h1 class="display-4 font-weight-bold">
-                            Introducing UniPlan.
-                        </h1>
-                        <p class="lead">
-                            We're creating a great app to help you organize your
-                            entire educational career. You'll never forget what
-                            assignments are due, what exams are coming up, and
-                            what you need to study. You'll find that staying
-                            organized and being successful in your educational
-                            endeavors are easy, attainable goals.
-                        </p>
-                        <div class="row justify-content-around my-5">
-                            <a
-                                href="https://cognitoteam.us19.list-manage.com/subscribe?u=c39b083dec93a55f0f836198a&id=341de8974c"
-                                class="btn px-5 py-3 btn-lg btn-outline-light btn-round"
-                                >Join our mailing list</a
-                            >
-                            <a
-                                href="/about/"
-                                id="btn-meet-team"
-                                class="btn-lg px-5 py-3 text-light"
-                                >Meet the team</a
-                            >
-                        </div>
-                    </div>
-                    <div class="col-md-6 text-center mt-3">
-                        <h2>An all-in-one organizer for students</h2>
-                        <img
-                            src="/assets/images/agenda-screenshot.png"
-                            alt="Screenshot of the Agenda page of the UniPlan mobile app"
-                            class="img-fluid w-75"
-                        />
-                    </div>
-                </div>
+      gtag("config", "UA-171047309-1");
+    </script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="/dist/main.css" />
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    {% include navigation.html %}
+
+    <div
+      id="main-header"
+      class="jumbotron jumbotron-fluid bg-primary text-light mt-5 mb-0"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <h1 class="display-4 font-weight-bold">
+              Introducing UniPlan.
+            </h1>
+            <p class="lead">
+              We're creating a great app to help you organize your entire
+              educational career. You'll never forget what assignments are due,
+              what exams are coming up, and what you need to study. You'll find
+              that staying organized and being successful in your educational
+              endeavors are easy, attainable goals.
+            </p>
+            <div class="row justify-content-around my-5">
+              <a
+                href="https://cognitoteam.us19.list-manage.com/subscribe?u=c39b083dec93a55f0f836198a&id=341de8974c"
+                class="btn px-5 py-3 btn-lg btn-outline-light btn-round"
+                >Join our mailing list</a
+              >
+              <a
+                href="/about/"
+                id="btn-meet-team"
+                class="btn-lg px-5 py-3 text-light"
+                >Meet the team</a
+              >
             </div>
+          </div>
+          <div class="col-md-6 text-center mt-3">
+            <h2>An all-in-one organizer for students</h2>
+            <img
+              src="/assets/images/agenda-screenshot.png"
+              alt="Screenshot of the Agenda page of the UniPlan mobile app"
+              class="img-fluid w-75"
+            />
+          </div>
         </div>
+      </div>
+    </div>
 
-        <section id="home">
-            <div class="container text-center my-5">
-                <h1 class="display-3 font-weight-bold">
-                    We're currently working on something really great.
-                </h1>
-            </div>
-        </section>
+    <section id="home">
+      <div class="container text-center my-5">
+        <h1 class="display-3 font-weight-bold">
+          We're currently working on something really great.
+        </h1>
+      </div>
+    </section>
 
-        {% include footer.html %} {% include scripts.html %} {% include
-        get-year-script.html %}
-    </body>
+    {% include footer.html %} {% include scripts.html %} {% include
+    get-year-script.html %}
+  </body>
 </html>
