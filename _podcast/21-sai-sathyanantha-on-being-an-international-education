@@ -1,0 +1,45 @@
+---
+layout: podcast-episode
+title: "Sai Sathyanantha on being an International Education"
+date: 2020-06-16 14:08:00
+file: https://archive.org/download/tss-21/tss-21.mp3
+description: "For most, college is a strenuous yet exciting time: students often find themselves working through adversities and toward self-discovery. This adage cannot ring more truly for international students who must navigate through life in a foreign country while juggling the hardships that come with a college education. 
+
+In this episode of the Study Space Podcast, we take a trip down memory lane with Sai Sathyanantha as he recounts both difficult and pleasant moments during his time at San Jose State University  as an international student.
+"
+duration: "91:58" #audio length in min
+length: "72559973" #filesize in byte
+explicit: "no" #other option is no
+block: "no" #means is shown in itunes
+featured_image: /assets/images/20-william-chau-on-ucsf-and-pharmacy/feature.jpg
+featured_image_alt: "A set of vials containing a blue chemical"
+slug: "20"
+---
+
+{{ page.description }}
+
+<figure class="figure">
+    <img src="{{ page.featured_image }}" alt="{{ page.featured_image_alt }}" class="mx-auto mt-5 mb-2 d-block w-75" />
+</figure>
+
+Things mentioned in this episode:
+
+- What inspired William to pursue chemistry and pharmacy
+- Planning is good to have a general direction, but don’t give up if any part of your plan doesn’t go accordingly
+- Liking what you’re doing helps with motivation
+- Developing self-discipline, resilience, and accountability
+- Consider the challenges of being a student as part of normal life
+- William’s reasons for choosing UCSF
+- Grades are important, but they aren’t all that matters to graduate schools and jobs
+- What sort of education goes into pharmaceutical studies
+- What the job market is like for pharmacists
+
+<div class="container">
+    <img src="/assets/images/20-william-chau-on-ucsf-and-pharmacy/william.jpg" alt="A profile picture of William Chau" class="mx-auto mt-5 mb-2 d-block mw-75">
+</div>
+
+Your hosts: Julian Vu
+
+Featured guest: William Chau
+
+Music: "Please Listen Carefully" by [Jahzzar](https://soundcloud.com/jahzzar) is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).
