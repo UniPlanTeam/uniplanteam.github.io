@@ -2,7 +2,7 @@
 layout: podcast-episode
 title: "Sai Sathyanantha on an International Education"
 date: 2020-06-16 14:08:00
-file: https://archive.org/download/tss-21/tss-21.mp3
+file: https://archive.org/download/tss-21/tss-21%20edit.mp3
 description: "For most, college is a strenuous yet exciting time: students often find themselves working through adversities and toward self-discovery. This adage cannot ring more truly for international students who must navigate through life in a foreign country while juggling the hardships that come with a college education. 
 
 In this episode of the Study Space Podcast, we take a trip down memory lane with Sai Sathyanantha as he recounts both difficult and pleasant moments during his time at San Jose State University  as an international student.
