@@ -9,7 +9,7 @@ duration: "81:26" #audio length in min
 length: "65740601" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
-featured_image: /assets/images/22-the-pre-medical-journey-with-joey-oldham/feature.jpg
+featured_image: /assets/images/22-the-pre-medical-journey-with-joseph-oldham/feature.jpg
 featured_image_alt: "A brain"
 slug: "22"
 ---
@@ -35,7 +35,7 @@ Things mentioned in this episode:
 
 
 <div class="container">
-    <img src="/assets/images/22-the-pre-medical-journey-with-joey-oldham/joey.jpg" alt="A profile picture of Joey Oldham" class="mx-auto mt-5 mb-2 d-block mw-75">
+    <img src="/assets/images/22-the-pre-medical-journey-with-joseph-oldham/joey.jpg" alt="A profile picture of Joey Oldham" class="mx-auto mt-5 mb-2 d-block mw-75">
 </div>
 
 Your hosts: David Chuong and Julian Vu
