@@ -1,6 +1,6 @@
 ---
 layout: podcast-episode
-title: "The Pre-Medical Journey with Joey Oldham"
+title: "The Pre-Medical Journey with Joey Oldam"
 date: 2020-06-24 14:08:00
 file: https://archive.org/download/tss-22/tss-22.mp3
 description: "The pre-medical journey is quite unforgiving: students strive to get the perfect GPA as well as balance extracurricular activities. In this episode, Joseph Oldham discusses his journey as a neuroscience premedical student; join us as we talk about extracurriculars, study habits, and the nuances of being a nontraditional major.
@@ -35,11 +35,11 @@ Things mentioned in this episode:
 
 
 <div class="container">
-    <img src="/assets/images/22-the-pre-medical-journey-with-joseph-oldham/joey.jpg" alt="A profile picture of Joey Oldham" class="mx-auto mt-5 mb-2 d-block mw-75">
+    <img src="/assets/images/22-the-pre-medical-journey-with-joseph-oldham/joey.jpg" alt="A profile picture of Joey Oldam" class="mx-auto mt-5 mb-2 d-block mw-75">
 </div>
 
 Your hosts: David Chuong and Julian Vu
 
-Featured guest: Joey Oldham
+Featured guest: Joey Oldam
 
 Music: "Please Listen Carefully" by [Jahzzar](https://soundcloud.com/jahzzar) is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).
