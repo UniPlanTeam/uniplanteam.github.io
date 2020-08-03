@@ -31,10 +31,6 @@ Things mentioned in this episode:
 - (30:44-41:03) Not studying regularly and the downfall of over-preparedness
 - (41:03-46:38) Being under and over-involved  
 
-<div class="container">
-    <img src="/assets/images/22-the-pre-medical-journey-with-joseph-oldam/joey.jpg" alt="A profile picture of Joey Oldam" class="mx-auto mt-5 mb-2 d-block mw-75">
-</div>
-
 Your hosts: David Chuong and Natalie Tran
 
 Music: "Please Listen Carefully" by [Jahzzar](https://soundcloud.com/jahzzar) is licensed under a [Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/).
