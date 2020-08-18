@@ -1,5 +1,5 @@
 ---
-title: How To Get Involved in University Research
+title:
 date: 2020-08-18 13:07:00 -0700
 author: David Chuong
 layout: post
