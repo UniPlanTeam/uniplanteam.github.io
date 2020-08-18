@@ -10,7 +10,7 @@ categories: blog
 
 Finding research in college can be an intimidating process, especially if you are coming into college with little to no previous research experience. It can be easy to dismiss yourself as under-qualified to do research, or lacking the contextual knowledge or skills needed to work in the lab you want. What you have to understand is that research in and of itself is a learning process, so no one is really "qualified" to do it in the first place. With that being said, there are definitely ways you can improve your chances of getting into a research lab, and that’s what we’ll be talking about in this blog.
 
-**Think About What You Want **
+**Think About What You Want**
 
 Before you even start looking at the research opportunities that are offered at your school, think about what you want from the research you will be doing. The first thing you want to decide is what field your research will be in. If you want to do research in, say, physics, not all physics research opportunities will be the same. Some may focus on astrophysics while others will have an emphasis on biophysics. Keep that in mind when looking for opportunities, because it’s not worth committing to research that won’t have anything to do with your future goals. 
 
@@ -65,7 +65,7 @@ If your research will mainly involve writing research papers, then demonstrate y
 
 The point I want to make here is that you should tailor your resume to whatever it is you think you’ll be doing in your lab. It will be impossible to have a "perfect" resume your first time around, but don’t worry about that. As long as you show the PI that you are genuinely interested in their work and have some form of relevant experience, they will be more than willing to accept you as a research assistant.
 
-**Finding Opportunities **
+**Finding Opportunities**
 
 To find research opportunities, it’s just a matter of going on your school’s website and looking up professors/researchers who may be doing work in areas you are interested in. For example, let’s say I want to work in a lab that does research on surgical robotics. Since I’m an Electrical Engineering major, the best place to start would be my school’s ECE Department website ([https://engineering.jhu.edu/ece/](https://engineering.jhu.edu/ece/)). I’d then look up all of the ECE faculty and go through them until I found someone who is developing hardware used specifically for surgical robotics purposes. On my school’s website, a professor’s research interests can be found directly on the professor’s info page or possibly through their affiliated "lab website" page. 
 
@@ -81,7 +81,7 @@ Just as you would not apply to just your dream university, you should not apply 
 
 Even before you start emailing a researcher, read one or two research papers they have written. Although you might only comprehend 0.1% of his/her paper, reading their paper demonstrates to the PI that you are as fascinated in the field as he/she is. Thus, he/she will be more willing to interview you and will be more likely to consider you a research assistant candidate. 
 
-**Emailing the Principal Investigator **
+**Emailing the Principal Investigator**
 
 After finding a principal investigator with whom you want to work, you’re going to want to send them an email. Here is the template that me and my friends used to get our research positions. 
 
