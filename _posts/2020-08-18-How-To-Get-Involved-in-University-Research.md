@@ -159,7 +159,7 @@ Research is an awesome learning experience and a great way to develop practical 
 
 <figure class="figure">
 <img
-src="/assets/images/How-To-Get-Involved-in-University-Research/image_5.png" 
+src="/assets/images/How-To-Get-Involved-in-University-Research/image_6.png" 
 alt="Scientist looking at glass slide using microscope." class="mx-auto 
 mt-5 mb-2 d-block w-75" />
 	<figcaption class="figure-caption text-center mb-5">Photo Courtesy of Pixabay</figcaption>
