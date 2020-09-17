@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: UniPlanTeam/uniplanteam.github.io
+
+media_folder: "assets/images/uploads"
