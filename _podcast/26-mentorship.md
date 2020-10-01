@@ -11,7 +11,7 @@ duration: "80:10" #audio length in min
 length: "70995514" #filesize in byte
 explicit: "no" #other option is no
 block: "no" #means is shown in itunes
-featured_image: /assets/images/25-mentorship/feature.jpg
+featured_image: /assets/images/26-mentorship/feature.jpg
 featured_image_alt: "A person explaining."
 slug: "26"
 ---
