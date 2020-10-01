@@ -1,6 +1,6 @@
 ---
 layout: podcast-episode
-title: "Mentorshup"
+title: "Mentorship"
 date: 2020-08-06 14:08:00
 file: https://archive.org/download/tss-26/tss-26.mp3
 description: "Having an experienced someone who is willing to guide you through the nuances of a field and support you as you achieve your goals is extremely important, but where and how can you find this special mentor? 
